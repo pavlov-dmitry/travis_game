@@ -1,0 +1,6 @@
+[package]
+
+name = "travis_game"
+version = "0.0.1"
+authors = ["pavlov_dmitry"]
+
