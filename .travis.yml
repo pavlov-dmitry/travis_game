@@ -1,4 +1,4 @@
 language: rust
 script:
-  - build_libexif.sh
+  - ./build_libexif.sh
   - cargo build -v
